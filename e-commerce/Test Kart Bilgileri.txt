@@ -1,0 +1,5 @@
+İsim: Mehmet Ertug Tombul
+Kart Numarası: 5170410000000004	
+Son Kullanma Tarihi: 12/2030
+CVV: 123
+Banka: Garanti Bankası Master Card (Debit)
